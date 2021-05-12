@@ -1,0 +1,4 @@
+tensorflow==2.4.1
+tensorflow-text==2.4.3
+pandas==1.1.5
+gdown
